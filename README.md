@@ -23,12 +23,12 @@ Actualmente estoy en formación con:
 
 ## 🚀 Proyectos Destacados
 
-### 📌 [Scraper Boats (Python + Selenium)](https://github.com/juanrobyte/Scraper-Boats)
+### 📌 [Scraper Boats (Python + Selenium)](https://github.com/juanrobyte/scraper-boats-selenium)
 Automatización para la extracción de información de embarcaciones.
 - **Tecnologías:** Python, Selenium
 - **Valor agregado:** Reduce tiempo en recolección de datos manuales.
 
-### 📌 [ParaleloDolar (Astro)](https://github.com/juanrobyte/ParaleloDolar)
+### 📌 [ParaleloDolar (Astro)](https://github.com/juanrobyte/paralelodolar-astro)
 Página informativa sobre tasas de cambio en tiempo real.
 - **Tecnologías:** Astro, HTML, CSS
 - **Valor agregado:** Herramienta sencilla para consulta rápida y precisa.
