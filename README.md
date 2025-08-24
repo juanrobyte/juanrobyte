@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Juan Diego Rodríguez Villamizar
 
-🎯 **Analista TI | Aspirante a SOC Analyst | Entusiasta de la Ciberseguridad**
+🎯 **Analista TI L2 | Aspirante a SOC Analyst | Entusiasta de la Ciberseguridad**
 📍 Pereira, Colombia
 
 Soy un profesional con experiencia en **soporte técnico, administración de redes y ciberseguridad en formación**.
